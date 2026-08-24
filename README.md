@@ -142,7 +142,7 @@ Trained and compared **3 classification models:**
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/rafihanif30/sentiment-analysis-mobile-legends.git
+git clone https://github.com/rafihanifafikri/sentiment-analysis-mobile-legends.git
 cd sentiment-analysis-mobile-legends
 pip install pandas numpy nltk scikit-learn sastrawi wordcloud matplotlib seaborn
 
